@@ -40,6 +40,11 @@ body{
   display: inline-block;
 }
 
-.mainSection{
+#bio{
   margin: auto 3% auto 3%;
+  color: #2a3439;
+}
+
+#workExperience{
+  margin-left: 3%;
 }
